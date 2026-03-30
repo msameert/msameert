@@ -1,13 +1,20 @@
 # About Me:
 Software Engineer,Jumping into System Design with Full-Stack. I'm currently working on Academia Insight System (AIS) which integrates RESTfulAPI, User Authentication, Cloud Database, Docker Containerization, Redis and many more stuff.
 
+<!-- About -->
+<h2 align="center">About Me</h2>
+<p align="center">
+  I'm a passionate software engineer who loves building things that <strong>solve real problems</strong>. Crafting full-stack web apps with How, When and Why. I enjoy <em>creating with purpose</em>. If it's elegant, scalable, and a little bit clever, you'll find me in.
+</p>
+
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-sameer-t) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mst_workstech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:msameert123@gmail.com) 
 
 ## Core Languages :
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,rust&theme=dark)](https://skillicons.dev)
+<p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=python,cpp,rust&theme=dark)](https://skillicons.dev)</p>
 
 ## Front-End :
 

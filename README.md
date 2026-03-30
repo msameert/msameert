@@ -13,12 +13,11 @@ Software Engineer,Jumping into System Design with Full-Stack. I'm currently work
 
 ## Core Languages :
 
-<p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=python,cpp,rust&theme=dark)](https://skillicons.dev)</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,rust" /></p>
 
 ## Front-End :
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap" /> </p>
 
 ## Back-End :
 

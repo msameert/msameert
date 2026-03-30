@@ -7,7 +7,7 @@ Software Engineer,Jumping into System Design with Full-Stack. I'm currently work
 
 ## Core Languages :
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,rust&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,rust&theme=dark)](https://skillicons.dev)
 
 ## Front-End :
 

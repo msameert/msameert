@@ -1,42 +1,44 @@
-# About Me:
-Software Engineer,Jumping into System Design with Full-Stack. I'm currently working on Academia Insight System (AIS) which integrates RESTfulAPI, User Authentication, Cloud Database, Docker Containerization, Redis and many more stuff.
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=FF6F61&vCenter=true&center=true&width=800&lines=Hi+there%2C+I'm+M+Sameer+T!;Software+Engineer+%7C+Full+Stack+Dev%7C+System+Designer;Let%E2%80%99s+enhance+the+world+together." alt="Typing SVG" />
 <!-- About -->
 <h2 align="center">About Me</h2>
 <p align="center">
-  I'm a passionate software engineer who loves building things that <strong>solve real problems</strong>. Crafting full-stack web apps with How, When and Why. I enjoy <em>creating with purpose</em>. If it's elegant, scalable, and a little bit clever, you'll find me in.
+  Software Engineer who enhances the relation between complex systems and human understanding. Working on full-stack developments and designing system architectures with emphasis on elegance, security, scalability and performance. <strong>I give souls to your ideas ;)</strong>
 </p>
 
-
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-sameer-t) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mst_workstech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:msameert123@gmail.com) 
-
 ## Core Languages :
-
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,rust" /></p>
 
 ## Front-End :
-
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap" /> </p>
 
 ## Back-End :
-
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" /> </p>
 
 ## Cloud Infrastructure :
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github" /> </p>
 
 ## SQL-NonSQL Database :
-
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+<p align="center"> <img src="https://skillicons.dev/icons?i=sqlite,postgresql,mysql,mongodb,supabase,firebase" /> </p>
 
 ## Other Activities :
+<p align="center"> <img src="https://skillicons.dev/icons?i=canva,arduino,cisco" /> </p>
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
+## Socials :
+<p align="center">
+  <a href="mailto:msameert123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/m-sameer-t/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/msameert"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ### Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Msameert&icon=0&color=0)](https://visitcount.itsvg.in)
+## Current Scope :
+  -  I am currently developing the Academia Insight System (AIS), a university portal built with a Flask-based REST API architecture. The project integrates a cloud-hosted database via Supabase, along with role-based authentication and authorization mechanisms. It is containerized using Docker and incorporates Redis for performance optimization. Moreover, implementing CI/CD pipelines and deploying on Amazon Web Services to ensure scalability and reliability.
+
+## Projects Completed :
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+|**CGPA Calculator** | Calculates CGPA along with stores Data Non-SQL JSON Format | Python, Flask, Streamlit, Firebase |
+

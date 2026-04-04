@@ -23,17 +23,23 @@
 ## Other Activities :
 <p align="center"> <img src="https://skillicons.dev/icons?i=canva,arduino,cisco" /> </p>
 
+## AI Developer Tools :
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-black?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://cursor.sh/apple-touch-icon.png" height="45" alt="Cursor"/>
+</p>
+
 ## Socials :
 <p align="center">
           <a href="mailto:msameert123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/m-sameer-t/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/msameert"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://x.com/mst_workstech"><img src="https://img.shields.io/badge/twitter?style=for-the-badge&logo=twitter&logoColor=white"></a>  <-- it still works, it's not a bug, it's a feature ;)
+  <a href="https://x.com/mst_workstech"><img src="https://img.shields.io/badge/twitter?style=for-the-badge&logo=twitter&logoColor=white"></a>  <-- it still works. It's not a bug, it's a feature ;)
   
 </p>
 
-### Random Dev Quote :
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Dev Quote :
+ *"The more the bugs, the faster the heartbeat… and the stronger the coffee"*
 
 ## Current Scope :
   -  I am currently developing the Academia Insight System (AIS), a university portal built with a Flask-based REST API architecture. The project integrates a cloud-hosted database via Supabase, along with role-based authentication and authorization mechanisms. It is containerized using Docker and incorporates Redis for performance optimization. Moreover, implementing CI/CD pipelines and deploying on Amazon Web Services to ensure scalability and reliability.

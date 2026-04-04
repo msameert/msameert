@@ -2,7 +2,7 @@
 <!-- About -->
 <h2 align="center">About Me</h2>
 <p align="center">
-  Software Engineer who enhances the relation between complex systems and human understanding. Working on full-stack developments and designing system architectures with emphasis on elegance, security, scalability and performance. <strong>I give souls to your ideas ;)</strong>
+  Software Engineer who enhances the relation between complex systems and human understanding. Working on full-stack developments, buillding productive tech and designing system architectures with emphasis on elegance, security, scalability and performance. <strong>I give souls to your ideas ;)</strong>
 </p>
 
 ## Core Languages :

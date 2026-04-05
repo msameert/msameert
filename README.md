@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=FF6F61&vCenter=true&center=true&width=800&lines=Hi+there%2C+I'm+M+Sameer+T!;Software+Engineer+%7C+Full+Stack+Dev%7C+System+Designer;Let%E2%80%99s+enhance+the+world+together." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=FF6F61&vCenter=true&center=true&width=800&lines=Hi+there%2C+I'm+M+Sameer+T!;Software+Engineer+%7C+Full+Stack+Dev%7C+System+Architect;Let%E2%80%99s+enhance+the+world+together." alt="Typing SVG" />
 <!-- About -->
 <h2 align="center">About Me</h2>
 <p align="center">

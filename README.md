@@ -21,7 +21,7 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=sqlite,postgresql,mysql,mongodb,supabase,firebase" /> </p>
 
 ## Other Activities :
-<p align="center"> <img src="https://skillicons.dev/icons?i=canva,arduino,cisco" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=canva,arduino,cisco,postman" /> </p>
 
 ## AI Developer Tools :
 <p align="center">

@@ -15,7 +15,7 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" /> </p>
 
 ## Cloud Infrastructure :
-<p align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,vercel,docker,linux,git,github" /><img src="https://jsdelivr.net" alt="GitLens Icon" width="25" height="25" />
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,vercel,docker,linux,git,github,gitlab" />
  </p>
 
 ## SQL-NonSQL Database :

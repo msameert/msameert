@@ -45,6 +45,12 @@
 ## Current Scope :
   -  I am currently developing the Academia Insight System (AIS), a university portal built with a Flask-based REST API architecture. The project integrates a cloud-hosted database via Supabase, along with role-based authentication and authorization mechanisms. It is containerized using Docker and incorporates Redis for performance optimization. Moreover, implementing CI/CD pipelines and deploying on Amazon Web Services to ensure scalability and reliability.
 
+## Currently Working on :
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+|**AIS System** | a University-Bases Portal system | Python, Flask, Supabase, Vercel |
+
 ## Projects Completed :
 
 | Project | Description | Tech Stack |

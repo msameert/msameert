@@ -42,7 +42,7 @@
 ## Dev Quote :
  *"The more the bugs, the faster the heartbeat… and the stronger the coffee"*
 
-## Current Scope :
+## Projects in progress :
   -  I am currently developing the Academia Insight System (AIS), a university portal built with a Flask-based REST API architecture. The project integrates a cloud-hosted database via Supabase, along with role-based authentication and authorization mechanisms. It is containerized using Docker and incorporates Redis for performance optimization. Moreover, implementing CI/CD pipelines and deploying on Vercel to ensure scalability and reliability.
 
 ## Projects Completed :
